@@ -1,0 +1,25 @@
+
+h1{
+    color:rgb(9, 3, 65);
+}
+.header{
+    background-color:rgb(123, 185, 240);
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+/* .site-description{
+    display:flex;
+    text-align:center;
+} */
+p,h2{
+    text-align:center;
+}
